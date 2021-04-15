@@ -1,6 +1,6 @@
 # Aging-of-the-Bony-Orbit
 # 1.BackGround
-
+This code is used to realize the automatic segmentation of the orbital region of the facial and skull image, and then perform automatic aging feature representation and classification of the segmented orbital contour. The craniofacial image dataset should be prepared of skull CT scanning data in DICOM format. You can use this code to quickly verify larger samples.
 
 # 2.Requirements
 - Ubuntu18.04
