@@ -7,7 +7,7 @@ This code is used to realize the automatic segmentation of the orbital region of
 - python 3.8
 - pytorch 1.7
 - cuda 11.0
-- anaconda 4(recommended to use
+- anaconda 4(recommended to use)
 - OpenCV (4.0+)
 
 # 3.Usage
